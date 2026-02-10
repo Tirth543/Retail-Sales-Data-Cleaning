@@ -9,7 +9,7 @@ The original data contained missing values, incorrect data types, and duplicate 
 - Google Colab
 
 ## Files
-- Retail_Store_Sales_Cleaning.ipynb – Data cleaning steps and explanations  
+- Project1_Data_cleaning.ipynb – Data cleaning steps and explanations  
 - retail_store_sales_cleaned.csv – Final cleaned dataset
 
 The cleaned dataset is structured and ready for further analysis or visualization.
